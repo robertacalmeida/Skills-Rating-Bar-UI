@@ -8,3 +8,5 @@ Projeto orientado por Muhammad Irshad do canal Online Turoials no YouTube.
  CSS Only 5 Star Skills Rating Bar UI Design | CSS Neumorphism UI
 
 Project guided by Muhammad Irshad of the Online Turoials channel on YouTube.
+
+https://robertacalmeida.github.io/Skills-Rating-Bar-UI/
